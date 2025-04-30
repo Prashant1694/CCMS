@@ -69,16 +69,16 @@ python "Source code.py"
 ## 🖼️ Screenshots
 
 ### 🔹 Menu System
-![Homepage.png](./Homepage.png)
+![Homepage.png](./Images/Homepage.png)
 
 ### 🔹 Member Details
-![Cust Details.png](./CustDetails.png)
+![Cust Details.png](./Images/CustDetails.png)
 
 ### 🔹 Billing Demo
-![2.png](./2.png)
+![2.png](./Images/2.png)
 
 ### 🔹 Viewing Local Visitors
-![View.png](./View.png)
+![View.png](./Images/View.png)
 
 ---
 
