@@ -93,7 +93,7 @@ python "Source code.py"
 
 ## 🧑‍💻 Author
 
-**Prashant S.**  
+**Prashant Bhatt**  
 🔗 [GitHub](https://github.com/Prashant1694)
 
 ---
