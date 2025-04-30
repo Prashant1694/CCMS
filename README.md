@@ -72,7 +72,7 @@ python "Source code.py"
 ![Homepage.png](./Homepage.png)
 
 ### 🔹 Member Details
-![Cust Details.png](./Cust Details.png)
+![Cust Details.png](./CustDetails.png)
 
 ### 🔹 Billing Demo
 ![2.png](./2.png)
